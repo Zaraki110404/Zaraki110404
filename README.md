@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<pre>
+<pre style="font-family: monospace, monospace; line-height: 1.0; letter-spacing: 0px;">
       ⣴⣶⣄
    ⣠⣤⣄  ⣠⡄  ⠙⣷
   ⣴⣿⠟⠁⣠⣾⣿    ⠈⣿⣄
