@@ -1,29 +1,25 @@
-## Hi there 👋
-<pre style="font-family: monospace, monospace; line-height: 1.0; letter-spacing: 0px;">
-      ⣴⣶⣄
-   ⣠⣤⣄  ⣠⡄  ⠙⣷
-  ⣴⣿⠟⠁⣠⣾⣿    ⠈⣿⣄
-  ⣿⡏  ⣴⣿⠟⠁   ⣠⣾⣿
-  ⣿⡄ ⣴⣿⠟    ⣠⣾⣿⠟
-  ⠈⣿⣄⠟⠁    ⣠⣾⣿⠟⢀⣴⣶
-   ⠙⢿⣦⣀   ⣠⣾⣿⠟   ⢸⣿
-   ⣴⣶⣄⠉⠻⢿⣦⣀   ⢸⣿  ⣿
-  ⢀⣴⣿⠟⠉⠻⢿⣦⣀   ⣠⣾⣿⠟  ⣿
-  ⢸⣿⠟⠉⠻⢿⣦⣀⠉⠻⢿⣦⣀   ⢸⣿
-    ⠻⢿⣦⣀  ⢸⣿   ⢸⣿
-       ⢸⣿   ⢸⣿
+<pre style="font-family: monospace, Courier, monospace; line-height: 1.1; letter-spacing: 0px;">
+⠀⠀⠀⠀⠀⠀⠀⠀⣼⠻⣆⠀⠀⠀ ⠀ ⠀⠀⠀ ⠀
+⠀⠀⡶⢤⡀⠀⠀⠀⢀⡇⡄⠈⢳⡄  ⠀⠀⠀⠀⠀ ⠀
+⠀⢠⡇⡄⢙⢦⣀⣀⣼⠁⠂⠀⠀⠙⣦⠀⠀⠀⠀⠀ ⠀⠀
+⠀⠘⡇⡇⠀⠁⡍⠁⠀⠀⠈⡁⠂⠀⢌⠳⡄⠀⠀⠀ ⠀⠀
+⠀⠰⡇⢀⠀⡐⠁⠀⠀⠀⠀⠀⢀⡴⣋⡄⠹⣆⠀ ⠀⠀⠀
+⠀⠀⣗⠈⢅⣀⣀⣀⡀⠀⠀⠀⠛⠛⠤⠤⠤⡸⣆⣠⠟⢲⡄
+⠀⠀⣿⠀⠰⠒⣺⠟⠁⢀⣠⠤⠶⡄⡁⠀⢀⠆⢹⠁⣠⠞⠁
+⠀⠀⢻⡀⢀⠞⠑⠒⢄⢣⡀⠀⠀⡇⠈⠉⠀⣠⣾⡜⠃⠀⠀
+⢀⣤⣼⣇⠈⠠⠤⠄⠊⠀⠑⠤⢠⣃⣠⠴⢛⡿⠋⠀⠀⠀⠀
+⠸⢤⣄⣈⡓⡦⠤⠤⠤⠴⠖⠚⠋⠉⠀⢸⡍ ⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⠉⠉⠛⠛⠒⢷⠀⠀⠀⠀⠀⠀⢷⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⡃⠀⠀⠀⠀⠀⠘⡃⠀⠀⠀⠀⠀
 </pre>
-<!--
-**Zaraki110404/Zaraki110404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Software Engineering student interested in backend development, AI, algorithms, and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building things around:
+- 🧠 Algorithms & Data Structures
+- 🤖 Artificial Intelligence
+- ☕ Java & Backend Development
+- 🐧 Arch Linux & Hyprland
+- 💻 Git & Linux tooling
+
+I'm still learning, so most of what you see here is me figuring things out, breaking things, and building them again.
