@@ -20,7 +20,6 @@ Currently learning and building things around:
 - 🧠 Algorithms & Data Structures
 - 🤖 Artificial Intelligence
 - ☕ Java & Backend Development
-- 🐧 Arch Linux & Hyprland
 - 💻 Git & Linux tooling
 
 I'm still learning, so most of what you see here is me figuring things out, breaking things, and building them again.
